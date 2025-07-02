@@ -2,7 +2,7 @@
 
 
 ### **1. Clone the Repository**
-git clone https://github.com/your-username/vigilant-ai.git
+git clone https://github.com/NinadWalanj/Vigilant-AI.git
 
 cd vigilant-ai
 
