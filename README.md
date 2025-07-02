@@ -1,4 +1,4 @@
-**Follow these steps to **run and test Vigilant AI locally on your machine.**
+### **Follow these steps to **run and test Vigilant AI locally on your machine.**
 
 
 ### **1. Clone the Repository**
